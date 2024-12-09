@@ -1,4 +1,4 @@
-Excited to Share My Latest Python Project: A Fully-Functional Contact Book!
+Excited to Share My Latest Python Project: A Fully-Functional Contact Book
 Developed during the #CodSoft internship under the expert guidance of Mr. Divakar Kushwaha at Ducat Noida!
 
 Project Overview:
